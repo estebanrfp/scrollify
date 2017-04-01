@@ -15,9 +15,25 @@ npm install scrollify-lite
 ## Uso
 
 ```
+css
+
+.header-show {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    -webkit-transition: all .5s cubic-bezier(.45,1,.22,1);
+    transition: all .5s cubic-bezier(.45,1,.22,1);
+}
+
+.header-hide {
+    -webkit-transform: translateY(-100%);
+    transform: translateY(-100%);
+    -webkit-transition: all .3s cubic-bezier(.55,.055,.675,.19);
+    transition: all .3s cubic-bezier(.55,.055,.675,.19);
+}
+
 import scrollify from 'scrollify-lite'
 
-scrollify(hideObject, scrollContent)
+scrollify('.header', '.Post')
 ```
 
 ## Créditos
