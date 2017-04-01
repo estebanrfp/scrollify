@@ -1,0 +1,32 @@
+{
+  "name": "scrollify",
+  "version": "0.1.0",
+  "description": "Auto Hide Header",
+  "main": "dist/src/scrollify.js",
+  "scripts": {
+    "build": "babel src/scrollify.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/estebanrfp/scrollify.git"
+  },
+  "keywords": [
+    "scrollify",
+    "desarrolloactivo",
+    "javascript",
+    "js"
+  ],
+  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com> (https://desarrolloactivo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estebanrfp/scrollify/issues"
+  },
+  "homepage": "https://github.com/estebanrfp/scrollify#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-env": "^1.3.2",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
