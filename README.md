@@ -1,8 +1,8 @@
 # Scrollify
 
-Ocultar automáticamente el encabezado al desplazarse hacia abajo y mostrarlo al desplazarse hacia arriba
+Scrollify nos oculta automáticamente el encabezado al desplazarse hacia abajo y lo muestra al desplazarse hacia arriba
 
-- Este es un código simple para ocultar el encabezado cuando se desplaza hacia abajo y se muestra al desplazarse hacia arriba.
+- Este es un código simple para ocultar y mostrar el encabezado al usar el Scroll
 
 - Trate de desplazarse hacia abajo y luego hacia arriba.
 
