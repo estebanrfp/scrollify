@@ -1,6 +1,6 @@
-# Scrollify
+# Scrollify lite
 
-Scrollify nos oculta automáticamente el encabezado al desplazarse hacia abajo y lo muestra al desplazarse hacia arriba
+Scrollify lite nos oculta automáticamente el encabezado al desplazarse hacia abajo y lo muestra al desplazarse hacia arriba
 
 - Este es un código simple para ocultar y mostrar el encabezado al usar el Scroll
 
@@ -9,13 +9,13 @@ Scrollify nos oculta automáticamente el encabezado al desplazarse hacia abajo y
 ## Install
 
 ```
-npm install scrollify
+npm install scrollify-lite
 ```
 
 ## Uso
 
 ```
-import scrollify from 'scrollify'
+import scrollify from 'scrollify-lite'
 
 scrollify(hideObject, scrollContent)
 ```

@@ -1,7 +1,7 @@
 {
   "name": "scrollify-lite",
   "version": "0.1.0",
-  "description": "Scrollify nos oculta automáticamente el encabezado al desplazarse hacia abajo y lo muestra al desplazarse hacia arriba",
+  "description": "Scrollify-lite nos oculta automáticamente el encabezado al desplazarse hacia abajo y lo muestra al desplazarse hacia arriba",
   "main": "dist/src/scrollify.js",
   "scripts": {
     "build": "babel src/scrollify.js -d dist",
