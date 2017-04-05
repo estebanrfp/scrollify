@@ -4,6 +4,8 @@ Scrollify lite is a simple code for hiding header when scrolling down and showin
 
 This lets the content to be more focus and shine.
 
+Try scrolling down and then up.
+
 ## Install
 
 ```
