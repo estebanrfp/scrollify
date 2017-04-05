@@ -1,10 +1,8 @@
 # Scrollify lite
 
-Scrollify lite nos oculta automáticamente el encabezado al desplazarse hacia abajo y lo muestra al desplazarse hacia arriba
+Scrollify lite is a simple code for hiding header when scrolling down and showing when scrolling up. 
 
-- Este es un código simple para ocultar y mostrar el encabezado al usar el Scroll
-
-- Trate de desplazarse hacia abajo y luego hacia arriba.
+This lets the content to be more focus and shine.
 
 ## Install
 
@@ -40,7 +38,7 @@ scrollify('.header', '.Post')
 
 ## Credits
 
-- [estebanrfp](https://desarrolloactivo.com/)
+[estebanrfp](https://desarrolloactivo.com/)
 
 ## License
 
