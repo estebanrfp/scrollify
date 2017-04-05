@@ -12,10 +12,10 @@ Scrollify lite nos oculta automáticamente el encabezado al desplazarse hacia ab
 npm install scrollify-lite
 ```
 
-## Uso
+## Usage
 
 ```
-css
+// css
 
 .header-show {
     -webkit-transform: translateY(0);
@@ -31,12 +31,14 @@ css
     transition: all .3s cubic-bezier(.55,.055,.675,.19);
 }
 
+// js
+
 import scrollify from 'scrollify-lite'
 
 scrollify('.header', '.Post')
 ```
 
-## Créditos
+## Credits
 
 - [estebanrfp](https://desarrolloactivo.com/)
 
