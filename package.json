@@ -1,7 +1,7 @@
 {
   "name": "scrollify-lite",
-  "version": "0.1.4",
-  "description": "Scrollify-lite nos oculta automáticamente el encabezado al desplazarse hacia abajo y lo muestra al desplazarse hacia arriba",
+  "version": "0.1.5",
+  "description": "Scrollify lite is a simple code for hiding header when scrolling down and showing when scrolling up.",
   "main": "dist/src/scrollify.js",
   "scripts": {
     "build": "babel src/scrollify.js -d dist",
