@@ -37,6 +37,9 @@ import scrollify from 'scrollify-lite'
 
 scrollify('.header', '.Post')
 ```
+## Example
+
+[scrollify-lite](https://desarrolloactivo.com/articulos/scrollify-lite/)
 
 ## Credits
 
